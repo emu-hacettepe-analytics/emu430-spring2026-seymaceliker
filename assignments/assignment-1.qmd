@@ -3,10 +3,9 @@ title: "Assignment 1"
 ---
 
 # Assignment 1
+My first assignment has two parts
 
 ```{r}
-1 + 1
-```
 my_first <- "seyma"     
 my_birth_year <- 2001     
 
@@ -60,15 +59,28 @@ print(sum(is.na(df_new)))
 
 print("anyNA(df_new)?")
 print(anyNA(df_new)) 
+```
+^[AI was used to review the R code for possible errors and suggest corrections. Prompt: "Check my R code for possible mistakes and suggest corrections if necessary."]
 
-My first assignment has two parts.
 
-## (a) Veri Bilimi ve Endüstri Mühendisliği Üzerine Sohbetler - Cem Vardar & Erdi Dasdemir
-(https://youtu.be/Fi8-phj1X1A?si=JTGz2JV-V13XRXwC) This video i have chosen.
+## (a) 
+[Veri Bilimi ve Endüstri Mühendisliği Üzerine Sohbetler - Cem Vardar & Erdi Dasdemir](https://youtu.be/Fi8-phj1X1A?si=JTGz2JV-V13XRXwC) I chose this video.
 
 ### Summary
 The video explains how engineers use science and math to solve real-world problems. Industrial engineers focus especially on complex and multi-step problems. Data science and data analysis are tools to help solve these problems. Data is collected and processed using techniques like SQL, Python, and R, and is visualized with Tableau or Power BI. Cem Vardar gives examples of how these methods are used at his workplace. The main skills needed for data scientists are problem solving, collecting and processing data, and visualizing. As advice, it is important to learn SQL and approach our work with a mindset of improving the system.
-
+^[AI was used to improve the clarity of English wording. Prompt: "Check the English summary for grammar or wording mistakes and suggest better expressions if needed."]
 
 
 ## (b)
+Open-ended question: As an industrial engineering student aiming to improve yourself in data science and data analysis, what is the most recommended skill or programming language?
+Answer: This video highlights that learning the basics of SQL can provide significant benefits, because SQL is widely used for data collection and management, and its core concepts rarely change. 
+
+Multiple-choice question: Which of the following tools is not typically used for data visualization?
+
+A) Power BI
+B) Tableau
+C) Notepad
+
+Answer: C) Notepad
+
+
