@@ -1,9 +1,10 @@
 ---
 title: "My Assignments"
+format: html
 ---
 
-On this page, I showcase the assignment I conducted for the \[term and year, e.g. Spring 2026\] EMU430 Data Analytics course.
+Welcome! On this page, I showcase the assignments I completed for the **EMU430 Data Analytics** course, Spring 2026.
 
-Please use the left menu to navigate through my assignments.
+Please use the left-hand menu to navigate through my assignments.
 
-The most recent update to this page was made on x/x/2026.
+**Last updated:** March 10, 2026
